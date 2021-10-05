@@ -6,7 +6,7 @@
 <body>
 <div_class="center">
 <h1>hi hi</h1>
-<p>reina only exists sometimes</p>
+<p><span style="color: #e08ce3">Hi!</span></p>
 </div>
 </body>
 </html>
