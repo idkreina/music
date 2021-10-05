@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>hi hi</h1>
-<p>reina is a musician making musician stuff</p>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
